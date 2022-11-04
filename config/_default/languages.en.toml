@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "JSLeong"
+title = "LeongJS"
 # logo = "blowfish.png"
 description = "My awesome website to write about stuff that interest me."
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -13,12 +13,12 @@ description = "My awesome website to write about stuff that interest me."
 dateFormat = "2 January 2006"
 
 [author]
-  name = "JSLeong"
+  name = "Leong"
   image = "img/blowfish_logo.png"
   headline = "I love blowfish!"
-  # bio = "A little bit about you"
+  # bio = "Find me at hey@leongjs.xyz"
   links = [
-  #   { email = "mailto:hello@jsleong.xyz" },
+    { email = "mailto:hey@leongjs.xyz" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
