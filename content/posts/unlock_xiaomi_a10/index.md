@@ -1,8 +1,8 @@
 ---
-title: "No Bullshit Guide to Unlock Xiaomi A10 Bootloader"
+title: "No BS Guide to Unlock Xiaomi Redmi 10A Bootloader"
 date: 2022-11-04T10:21:53+08:00
 draft: false
-description: "Unlocking Xiaomi A10 Bootloader"
+description: "Learn everything about unlocking Xiaomi Redmi 10A bootloader."
 summary: "An actual guide to rooting your Xiaomi A10 bootloader?"
 tags: ['tech']
 ---

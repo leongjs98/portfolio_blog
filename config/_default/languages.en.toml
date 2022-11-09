@@ -7,7 +7,7 @@ rtl = false
 
 title = "LeongJS"
 # logo = "blowfish.png"
-description = "My awesome website to write about stuff that interest me."
+description = "A fullstack web developer who write different guides and blogs about technology."
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"

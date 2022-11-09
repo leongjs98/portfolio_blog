@@ -2,7 +2,7 @@
 title: "Torrenting for the Uninitiated"
 date: 2022-10-11T00:03:53+08:00
 draft: false
-description: "A guide for torrenting for beginners."
+description: "Learn the basics on how to torrent the correct way."
 summary: "The dark art of torrenting for beginners."
 tags: ['tech']
 ---
