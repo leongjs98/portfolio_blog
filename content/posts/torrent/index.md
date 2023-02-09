@@ -38,7 +38,7 @@ will give the links to Piratebay. Right click on the magnet and hit "Copy Link"
 or "Copy Link Address". 
 
 {{<
-figure src="/posts/copy_magnet_link_address.webp"
+figure src="/posts/copy_magnet_link.webp"
 alt="Copying Address of Magnet Link"
 caption="Copying magnet link."
 >}}
