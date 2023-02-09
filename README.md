@@ -1,3 +1,7 @@
+# After Cloning
+`git rm --cached themes/blowfish`
+`git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blowfish`
+
 # Roadmaps
 ## Portfolio
 ## Blogs
