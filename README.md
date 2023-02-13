@@ -25,7 +25,13 @@
 - Ctrl k quick search for some site or web apps (Discord, Element, Mattermost etc.)
 
 ## Portfolio
+Add technical skills sets in card
+Add pdf for clients to fill for website building
+About page
+
 ## Blogs
 1. Have a [nested parent
    menu](https://blowfish.page/docs/getting-started/#nested-menus) topics menu
    on navbar for different topics
+2. Allow others to create pull request on github to co-author articles
+
