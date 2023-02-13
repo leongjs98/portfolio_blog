@@ -7,7 +7,7 @@ rtl = false
 
 title = "LeongJS"
 # logo = "blowfish.png"
-description = "A freelance full-stack web developer in Malaysia."
+description = "An experienced developer who develop personal and business websites."
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 Jan 2006"
@@ -15,7 +15,7 @@ dateFormat = "2 Jan 2006"
 [author]
   name = "Leong"
   image = "img/blowfish_logo.png"
-  headline = "A self-taught full-stack web developer and a FOSS advocate."
+  headline = "A passionate self-taught web developer and an avid FOSS advocate."
   bio = "hey@leongjs.xyz"
   links = [
     { email = "mailto:hey@leongjs.xyz" },

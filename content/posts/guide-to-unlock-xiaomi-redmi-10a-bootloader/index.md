@@ -82,7 +82,8 @@ Wait for 168 hours (7 days) and try again.
 Enjoy your rooted phone. If anything goes bad, go to this
 [article](https://new.c.mi.com/global/post/101245).
 
-## Sources:
+---
+## Official Sources
 
-<https://en.miui.com/unlock/download_en.html>
-<https://new.c.mi.com/global/post/101245>
+1. [Official Mi Unlock App](https://en.miui.com/unlock/download_en.html)
+2. [Official Xiaomi Unlock Bootloader Guide](https://new.c.mi.com/global/post/101245)

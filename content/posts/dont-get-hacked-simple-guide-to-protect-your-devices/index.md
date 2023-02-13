@@ -2,15 +2,17 @@
 title: "Don't Get Hacked! Simple guide to protect your devices."
 date: 2023-01-25T14:28:54+08:00
 draft: false
-description: "Guide to protect all your online accounts and avoid getting hacked! Steps to prevent getting hacked."
-summary: "I see you are using the Internet, learn how to protect yourself online."
+description: "Simple guide to prevent getting hacked and protect all your online accounts!"
+summary: "My friend got hacked last week, don't be like him and protect yourself online."
 topics: ['cybersecurity']
 ---
 
 {{< alert >}}
-**Warning!** This isn't an extensive guide on how to protect
-yourself from getting hacked. This is just a simple guide that
-everyone and their grandma can do (at least to some extent)
+
+**Warning!** This isn't an extensive guide on how to protect yourself from
+getting hacked. This is just a simple guide that everyone and their grandma can
+do (at least to some extent)
+
 {{< /alert >}}
 
 Recently, one of my friend got hacked, and he is quite educated and considered
@@ -79,7 +81,7 @@ Hackers will make their links look like a real one. We should always check the
 links before clicking, make sure its an legitimate source.
 
 {{< figure 
-  src="/posts/scam_link_example.webp"
+  src="./img/scam_link_example.webp"
   alt="Dangerous link that disguises as a Discord Nitro Link"
   caption="Dangerous link that disguises as a Discord Nitro Link."
 >}}
@@ -136,3 +138,10 @@ If you haven't notice, to be more secured could means less convenient. But only
 if you are using the wrong softwares. By using a local password manager, you
 could achieve 4 of the 7 steps above and still have conveniency. Next post,
 I will go over my favorite free and open-source password manager, KeepassX.
+
+<hr>
+
+Background image by <a
+href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2755365">Pete
+Linforth</a> from <a
+href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2755365">Pixabay</a>

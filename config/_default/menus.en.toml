@@ -17,15 +17,51 @@
 #   weight = 10
 
 [[main]]
-  name = "Topics"
+  name = "Blog"
   pageRef = "topics"
   weight = 30
 
 [[main]]
   pre = "github"
   name = "GitHub"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 30
+  url = "https://github.com/leongjs98/"
+  weight = 11
+
+[[main]]
+  pre = "rss"
+  name = "RSS"
+  url = "https://leongjs.xyz/index.xml"
+  weight = 10
+
+
+[[main]]
+  name = "Projects"
+  url = "/projects"
+  weight = 20
+
+# [[main]]
+#   name = "sub-menu 1"
+#   parent = "Projects"
+#   pageRef = "samples"
+#   weight = 20
+#
+# [[main]]
+#   name = "sub-menu 2"
+#   parent = "Projects"
+#   pageRef = "samples"
+#   weight = 20
+#
+# [[main]]
+#   name = "sub-menu 3"
+#   parent = "Projects"
+#   pre = "github"
+#   pageRef = "samples"
+#   weight = 20
+
+# [[main]]
+#   name = "Projects"
+#   url = "/projects/"
+#   weight = 1
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -37,7 +73,7 @@
 #   weight = 10
 
 [[footer]]
-  name = "Topics"
+  name = "Blog"
   pageRef = "topics"
   weight = 10
 

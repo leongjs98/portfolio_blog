@@ -2,10 +2,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
-# baseURL = "https://your_domain.com/"
+baseURL = "https://leongjs.xyz/"
 defaultContentLanguage = "en"
 languageCode = "en"
 theme = "blowfish"
+title = "Leong's Website"
 
 enableRobotsTXT = true
 paginate = 20

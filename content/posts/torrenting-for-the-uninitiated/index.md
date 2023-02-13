@@ -5,14 +5,21 @@ draft: false
 description: "Easy beginner torrenting guides. Learn how to torrent correctly."
 summary: "Easy torrenting for beginners."
 topics: ['tech']
+# layout: 'simple'
 ---
 
-{{< alert >}}
-**Warning!** I don't condone online piracy of any form. Also, don't come to me
-if you got yourself into trouble from torrenting. Torrent at your own risk.
-{{< /alert >}}
+{{< lead >}}
 
 An easy to understand guide for torrenting.
+
+{{< /lead >}}
+
+{{< alert >}}
+
+**Warning!** I don't condone online piracy of any form. Also, don't come to me
+if you got yourself into trouble from torrenting. Torrent at your own risk.
+
+{{< /alert >}}
 
 ## How
 First, you will need a torrenting client, I started out using
@@ -26,7 +33,7 @@ of the ISO file. You can go to the [official Arch Linux
 website](https://archlinux.org/download/) and look for a magnet icon. 
 
 {{<
-figure src="/posts/archlinux_magnet_link.webp"
+figure src="img/archlinux_magnet_link.webp"
 alt="An image of Arch Linux magnet link"
 caption="What the Arch Linux magnet link would look like."
 >}}
@@ -38,7 +45,7 @@ will give the links to Piratebay. Right click on the magnet and hit "Copy Link"
 or "Copy Link Address". 
 
 {{<
-figure src="/posts/copy_magnet_link.webp"
+figure src="img/copy_magnet_link.webp"
 alt="Copying Address of Magnet Link"
 caption="Copying magnet link."
 >}}
@@ -83,3 +90,10 @@ Surfshark for more than 1 month, you and I both get 1 month of free VPN. Yay!
 
 Or you can just get any other VPNs out there. Just go on YouTube and you will
 find others shilling for them (even more shamelessly than me).
+
+<hr>
+Background image by <a
+href="https://unsplash.com/@comparefibre?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Compare
+Fibre</a> on <a
+href="https://unsplash.com/photos/tiSE_paTt0A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
