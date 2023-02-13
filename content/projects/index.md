@@ -9,7 +9,7 @@ topics: ['project']
 ---
 
 {{< lead >}}
-I have helped these people to make their website from scratch!
+I help these people to make their website from scratch!
 {{< /lead >}}
 
 ## Indrct
@@ -26,9 +26,8 @@ Under Development
 
 Indrct Biz is a business-to-business trading company selling industrial
 supplies to different businesses in Malaysia. The company is expanding its
-business to the online space. Indrct Biz is working closely with CodeForging to
-develop an e-commerce website for its future online business. The site's
-content is under development.
+business to the online space. I am working closely with Indrct Biz to develop
+an e-commerce website for its online business.
 
 {{< button href="https://test.indrct.com.my" target="_blank" >}}
 Visit Indrct
@@ -48,9 +47,8 @@ Under Development
 
 WCosmix is a Malaysia business established in the early 2000s. The company
 mainly provides PCB assembly services and sells electronic products such as
-fluxes. The company came to us to make a portfolio website for boosting its
-online presence and attempt to widen its customer reach. The site's content is
-under development.
+soldering flux. The company need a portfolio website for boosting its online
+presence and attempt to widen its customer reach.
 
 {{< button href="https://wcosmix.com/" target="_blank" >}}
 Visit W Cosmix
