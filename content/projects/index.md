@@ -1,15 +1,15 @@
 ---
 title: "Active Projects"
 date: 2022-10-23T21:46:36+08:00
-description: "Projects actively developed and maintained by LeongJS"
-summary: ""
-showSummary: false
+description: "Projects actively developed and maintained by LeongJS."
+summary: "Projects actively developed and maintained by me."
 draft: false
-topics: ['project']
+showSummary: false
+# topics: ['project']
 ---
 
 {{< lead >}}
-I help these people to make their website from scratch!
+I help these people make their website from scratch!
 {{< /lead >}}
 
 ## Indrct

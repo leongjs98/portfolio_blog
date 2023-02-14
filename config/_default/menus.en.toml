@@ -21,11 +21,11 @@
   pageRef = "topics"
   weight = 30
 
-[[main]]
-  pre = "github"
-  name = "GitHub"
-  url = "https://github.com/leongjs98/"
-  weight = 11
+# [[main]]
+#   pre = "github"
+#   name = "GitHub"
+#   url = "https://github.com/leongjs98/"
+#   weight = 11
 
 [[main]]
   pre = "rss"
@@ -33,10 +33,9 @@
   url = "https://leongjs.xyz/index.xml"
   weight = 10
 
-
 [[main]]
-  name = "Projects"
-  url = "/projects"
+  name = "About"
+  url = "/about"
   weight = 20
 
 # [[main]]
