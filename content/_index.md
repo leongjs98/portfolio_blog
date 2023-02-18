@@ -6,12 +6,12 @@
 ## Web Development Experiences
 
 As an experienced full-stack web developer, I know the website development
-cycle like the palm of my hand. I did many work in designing and developing the
-front-end (i.e. how a website looks), but my expertise lies in backend
-development, handling the logical operations behind the scene.
+cycle like the palm of my hand. I have done many projects in designing and
+developing the front-end (i.e. how a website looks), but my expertise lies in
+backend development, handling the logical operations behind the scene.
 
 I also have extensive knowledge in hosting and maintenance on Linux servers. I
-have helped clients to host and maintain most of their websites on servers.
+have helped clients to host and maintain most of their websites.
 
 {{< article link="/projects/" >}}
 
