@@ -25,8 +25,8 @@ theme](https://blowfish.page/).
 
 ## Need a website?
 
-Whether it's a personal project or a company business website, I can give you
-an affordable quote custom for your needs. Don't hesitate to email me at <a
+Whether it's a personal project or a company business website, I can give you a
+quote custom for your needs. Don't hesitate to email me at <a
 href="mailto:hey@leongjs.xyz">hey@leongjs.xyz</a>
 
 <hr>
