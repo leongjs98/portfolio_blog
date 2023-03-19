@@ -19,15 +19,9 @@
     {{/* Copyright */}}
     {{ if .Site.Params.footer.showCopyright | default true }}
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      {{- with .Site.Params.copyright }}
       All content licensed under
       <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
         href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>
-      {{- else }}
-      &copy;
-      {{ now.Format "2006" }}
-      {{ .Site.Author.name | markdownify | emojify }}
-      {{- end }}
     </p>
     {{ end }}
 

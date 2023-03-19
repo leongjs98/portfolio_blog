@@ -4,11 +4,11 @@ date: 2023-03-06T00:34:18+08:00
 draft: false
 description: "Basic and universal hotkeys to boost productivity."
 summary: "Basic and universal hotkeys to boost productivity on your computer."
-topics: ["tech"]
+topics: ["tech", "productivity"]
 ---
 
 {{< alert >}}
-This post only include hotkeys that are close to the homerow.
+This post only include hotkeys that are close to the homerow of the keyboard.
 In other words, hotkeys like `Alt+F4` aren't included.
 {{< /alert >}}
 
@@ -35,10 +35,19 @@ Hotkey | Function
 `Alt` `RightArrow` |  Go forward to next page in visit history
 `Ctrl` `k` |  quick search for some site or web apps (Discord, Element, Mattermost etc.)
 
-## Everywhere
+## (Almost) Everywhere
 
 Hotkey | Function
 ---|---
 `Ctrl` `a`| Select all for most editor and programs
-`Ctrl` `z` |  undo changes (useful when filling in form in browser)
-`Ctrl` `y` |  redo changes
+`Ctrl` `s`| Save progress
+`Ctrl` `z` |  Undo changes (useful when filling in form in browser)
+`Ctrl` `c` |  Copy text (or images/vieos if the app permits)
+`Ctrl` `x` |  Cut text (copy and delete)
+`Ctrl` `p` |  Paste clipboard (text, image, video etc.)
+`Ctrl` `y` |  Redo changes
+
+<hr>
+Background image by <a
+href="https://www.pexels.com/@soumil-kumar-4325/">Soumil Kumar</a> on <a
+href="https://www.pexels.com/photo/photo-of-person-typing-on-computer-keyboard-735911/">Pexels</a>
