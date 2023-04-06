@@ -30,7 +30,7 @@ Hotkey | Function
 `Ctrl` `h` | Open history
 `Ctrl` `+` |  Zoom in
 `Ctrl` `-` |  Zoom out
-`Alt` `d` |  Select the URL bar
+`Alt` `d` |  Focus and select the whole URL bar
 `Alt` `LeftArrow` |  Go back to previous page in visit history
 `Alt` `RightArrow` |  Go forward to next page in visit history
 `Ctrl` `k` |  quick search for some site or web apps (Discord, Element, Mattermost etc.)
@@ -39,13 +39,14 @@ Hotkey | Function
 
 Hotkey | Function
 ---|---
-`Ctrl` `a`| Select all for most editor and programs
-`Ctrl` `s`| Save progress
+`Ctrl` `a` | Select all for most editor and programs
+`Ctrl` `s` | Save progress
 `Ctrl` `z` |  Undo changes (useful when filling in form in browser)
 `Ctrl` `c` |  Copy text (or images/vieos if the app permits)
 `Ctrl` `x` |  Cut text (copy and delete)
 `Ctrl` `p` |  Paste clipboard (text, image, video etc.)
 `Ctrl` `y` |  Redo changes
+`Ctrl` `r` |  Reload or refresh
 
 <hr>
 Background image by <a
