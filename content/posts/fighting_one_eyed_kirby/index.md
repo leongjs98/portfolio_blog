@@ -1,5 +1,5 @@
 ---
-title: "Fighting One Eyed Kirby"
+title: "Useful Regex Pattern: Fighting One Eyed Kirby"
 date: 2023-04-06T16:51:35+08:00
 draft: false
 description: ""

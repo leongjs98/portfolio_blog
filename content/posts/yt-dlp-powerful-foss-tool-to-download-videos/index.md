@@ -70,6 +70,16 @@ Option | Function
 `--geo-bypass` | Bypass geographic restrictions
 `--playlist-items 4-20` | Only download certain videos from a playlist (4th to 20th here)
 
+### Numbered Playlist Download
+
+```sh
+yt-dlp -o "%(playlist_index)s-%(title)s.%(ext)s" "LINK"
+```
+
+This command will download and output your file as ordered in the playlist.
+Credit to [Iman
+Mohamadi](https://askubuntu.com/questions/694848/how-to-download-a-youtube-playlist-with-numbered-prefix-via-youtube-dl) 
+
 ### Need Help?
 
 How do I know all these options? Remember the manual is your friend. Hence,
