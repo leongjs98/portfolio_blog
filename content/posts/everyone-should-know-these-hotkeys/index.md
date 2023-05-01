@@ -12,11 +12,11 @@ This post only include hotkeys that are close to the homerow of the keyboard.
 In other words, hotkeys like `Alt+F4` aren't included.
 {{< /alert >}}
 
-## Browsers-specific
+## Hotkeys for Browsers
 
-Here are some common shortcuts for all browsers (not sure
-about Safari). This means you can learn them once and use them
-everywhere else.
+Here are some common shortcuts for popular browsers such as Mozilla Firefox,
+Brave Browser, Opera Browser, Google Chrome, Microsoft Edge (not sure about
+Safari). This means you can learn them once and use them everywhere else.
 
 Some apps use similar if not the same hotkeys as well.
 
