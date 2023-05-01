@@ -1,5 +1,5 @@
 ---
-title: "Tag Music With id3"
+title: "Tag music with id3"
 date: 2023-04-27T13:48:59+08:00
 draft: true
 description: ""
@@ -21,7 +21,7 @@ youtube-dl --ignore-errors --extract-audio --format bestaudio/best --audio-quali
 id3 --album "Melophobia" --year "2013" --genre "41" --artist "Cage the Elephant" --match "%T-%t.ogg"
 ```
 
-### ID3v1 Genre List
+### ID3v1 genre list
 
 | Number | Genre |
 | --- | --- |

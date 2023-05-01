@@ -1,5 +1,5 @@
 ---
-title: "Most Privacy-focused and Secured Password Manager - KeepassX is also easy-to-use and free"
+title: "Powerful, private, secure, easy-to-use and FREE password manager - KeepassXC"
 date: 2023-04-17T11:59:58+08:00
 draft: true
 description: "KeepassX is the most private, secured, and easy-to-use password manager."

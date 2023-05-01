@@ -1,5 +1,5 @@
 ---
-title: "Active Projects"
+title: "Active projects"
 date: 2022-10-23T21:46:36+08:00
 description: "Projects actively developed and maintained by LeongJS."
 summary: "Projects actively developed and maintained by me."

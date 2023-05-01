@@ -1,5 +1,5 @@
 ---
-title: "Guide to Unlock Xiaomi Redmi 10A Bootloader"
+title: "Guide to unlock Xiaomi Redmi 10A bootloader"
 date: 2022-11-04T10:21:53+08:00
 draft: false
 description: "Guide to unlock Xiaomi Redmi 10A bootloader. How to unlock Xiaomi Redmi 10A"

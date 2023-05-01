@@ -1,5 +1,5 @@
 ---
-title: "Useful Regex Pattern: Fighting One Eyed Kirby"
+title: "Powerful Regex pattern to find and replace with: the fighting one-eyed Kirby"
 date: 2023-04-06T16:51:35+08:00
 draft: false
 description: "Find and replace specific part of a string using this regex pattern."

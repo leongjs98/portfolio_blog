@@ -1,5 +1,5 @@
 ---
-title: "Everyone Should Know These Hotkeys"
+title: "Everyone should know these hotkeys"
 date: 2023-03-06T00:34:18+08:00
 draft: false
 description: "Basic and universal hotkeys to boost productivity."
@@ -12,7 +12,7 @@ This post only include hotkeys that are close to the homerow of the keyboard.
 In other words, hotkeys like `Alt+F4` aren't included.
 {{< /alert >}}
 
-## Hotkeys for Browsers
+## Hotkeys for browsers
 
 Here are some common shortcuts for popular browsers such as Mozilla Firefox,
 Brave Browser, Opera Browser, Google Chrome, Microsoft Edge (not sure about

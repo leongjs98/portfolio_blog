@@ -1,5 +1,5 @@
 ---
-title: "Torrenting for the Uninitiated"
+title: "Torrenting for the uninitiated"
 date: 2022-10-11T00:03:53+08:00
 draft: false
 description: "Easy beginner torrenting guides. Learn how to torrent correctly."

@@ -1,5 +1,5 @@
 ---
-title: "Essential Linux Terminal Tips for Noobs"
+title: "Essential Linux terminal tips for noobs"
 date: 2022-12-14T00:03:53+08:00
 draft: true
 description: "Top Linux Desktop Terminal Tips"

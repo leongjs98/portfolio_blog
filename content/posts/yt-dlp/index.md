@@ -1,5 +1,5 @@
 ---
-title: "Download YouTube (or any) Videos with yt-dlp"
+title: "Download YouTube (or any) videos with yt-dlp"
 date: 2023-03-18T23:13:37+08:00
 draft: false
 description: "Download any video or audio from YouTube or any website with yt-dlp"
@@ -70,7 +70,7 @@ Option | Function
 `--geo-bypass` | Bypass geographic restrictions
 `--playlist-items 4-20` | Only download certain videos from a playlist (4th to 20th here)
 
-### Numbered Playlist Download
+### Numbered playlist download
 
 ```sh
 yt-dlp -o "%(playlist_index)s-%(title)s.%(ext)s" "LINK"
@@ -80,7 +80,7 @@ This command will download and output your file as ordered in the playlist.
 Credit to [Iman
 Mohamadi](https://askubuntu.com/questions/694848/how-to-download-a-youtube-playlist-with-numbered-prefix-via-youtube-dl) 
 
-### Need Help?
+### Need help?
 
 How do I know all these options? Remember the manual is your friend. Hence,
 people often says **RTFM**, they just reminding you to **R**ead **T**hat

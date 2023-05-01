@@ -1,5 +1,5 @@
 ---
-title: "Don't Get Hacked! Simple guide to protect your devices."
+title: "Don't get hacked! simple guide to protect your devices."
 date: 2023-01-25T14:28:54+08:00
 draft: false
 description: "Simple guide to prevent getting hacked and protect all your online accounts!"

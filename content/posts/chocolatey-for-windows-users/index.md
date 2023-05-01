@@ -27,7 +27,7 @@ But for the people who are petrified by documentations, here is a great
 Chocolatey by [Hitesh
 Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
 
-### Basic Usage
+### Basic usage
 
 Open your PowerShell in Administrative mode. then run `choco`
 
