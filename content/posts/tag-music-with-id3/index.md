@@ -1,27 +1,107 @@
 ---
-title: "Tag music with id3"
+title: "Quickly tag music and audio files in terminal with id3"
 date: 2023-04-27T13:48:59+08:00
-draft: true
-description: ""
-summary: ""
-topics: [""]
+draft: false
+description: "Terminal tool to quickly tagging music with ID3 metadata. Automated."
+summary: "Terminal tool to tag music with ID3 metadata"
+topics: ["Useful FOSS", "Digital Productivity"]
 ---
 
-Make sure you install **latest** id3 from https://squell.github.io/id3/#getting-it
+`id3` is available in Linux, Windows and MacOS. Make sure you install
+**latest** id3 (v0.80 as of writing) from
+https://squell.github.io/id3/#getting-it
 
-Download playlist videos with numbered title
+## Basic `id3` usage
 
-## Getting the videos 
-
+Let's say you have the album ["Melophobia" by Cage The
+Elephant](https://www.youtube.com/playlist?list=OLAK5uy_kdMzcHs_e8Bfxkcuy-TxFmwqoUGxtqAYg)
+as below:
 ```
-youtube-dl --ignore-errors --extract-audio --format bestaudio/best --audio-quality 0 --yes-playlist --recode-video ogg -o "%(playlist_index)s-%(title)s.%(ext)s"
+├── 01-Spiderhead.ogg
+├── 02-Come A Little Closer.ogg
+├── 03-Telescope.ogg
+├── 04-It's Just Forever.ogg
+├── 05-Take It Or Leave It.ogg
+├── 06-Halo.ogg
+├── 07-Black Widow.ogg
+├── 08-Hypocrite.ogg
+├── 09-Teeth.ogg
+└── 10-Cigarette Daydreams.ogg
 ```
+
+### Tagging album
+
+Go into your terminal, then run:
+```
+id3 --album "Melophobia" *
+```
+
+### Tagging year
+
+Go into your terminal, then run:
+```
+id3 --year "2013" *
+```
+
+### Tagging artist
+
+Go into your terminal, then run:
+```
+id3 --artist "Cage the Elephant" *
+```
+
+### Tagging genre
+
+To tag the genre, please refer to the table at the end of this page.
+The number 41 is for "Alternative Rock".
+
+Go into your terminal, then run:
+```
+id3 --genre "41"
+```
+
+### Tagging track number 
+
+You can tag the track number of each file one by one with:
+```
+id3 --track 1 FILENAME
+```
+
+### Tagging title
+
+You can tag the title of each file one by one with:
+```
+id3 --title "TITLE" FILENAME
+```
+
+### Powerful `--match` option
+
+the option `--match` is the most powerful option of this program. Please read the
+manpage if you are interested in the details
+
+Or if you have your the track number in your filenames with the pattern
+`01-Spiderhead.ogg`. Go into your terminal, then run:
+```
+id3 --match "%T-%t.ogg"
+```
+
+Note that `--match` require using the shorthands of the ID3 tag name `T` is
+short for "track" and `t` is short for "title". 
+
+### All of the above
+You can tag all ID3v1 information in one line:
 
 ```
 id3 --album "Melophobia" --year "2013" --genre "41" --artist "Cage the Elephant" --match "%T-%t.ogg"
 ```
 
-### ID3v1 genre list
+### Help yourself
+
+```
+id3 --help
+```
+
+## ID3v1 genre list
 
 | Number | Genre |
 | --- | --- |
@@ -105,7 +185,6 @@ id3 --album "Melophobia" --year "2013" --genre "41" --artist "Cage the Elephant"
 | 78 | Musical |
 | 79 | Rock 'n' Roll |
 | 80 | Hard rock |
-| Winamp | xtended List Number 	Genre |
 | 81 | Folk |
 | 82 | Folk-Rock |
 | 83 | National Folk |

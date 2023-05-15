@@ -4,7 +4,7 @@ date: 2023-04-06T16:51:35+08:00
 draft: false
 description: "Find and replace specific part of a string using this regex pattern."
 summary: "Replace and reuse text with regex to save you time while editing codes or texts."
-topics: ["Programming", "Productivity"]
+topics: ["Programming", "Digital productivity"]
 ---
 
 ## Requirements

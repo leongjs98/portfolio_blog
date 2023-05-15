@@ -4,7 +4,7 @@ date: 2023-03-06T00:34:18+08:00
 draft: false
 description: "Basic and universal hotkeys to boost productivity."
 summary: "Basic and universal hotkeys to boost productivity on your computer."
-topics: ["tech", "productivity"]
+topics: ["tech", "digital productivity"]
 ---
 
 {{< alert >}}

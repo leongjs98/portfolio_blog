@@ -4,7 +4,7 @@ date: 2023-04-17T11:59:58+08:00
 draft: true
 description: "KeepassX is the most private, secured, and easy-to-use password manager."
 summary: "Why has nobody talked about this."
-topics: ["cybersecurity", "tech"]
+topics: ["cybersecurity"]
 ---
 
 Online password manager bad

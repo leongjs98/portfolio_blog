@@ -4,7 +4,7 @@ date: 2023-02-10T15:46:27+08:00
 draft: true
 description: ""
 summary: ""
-topics: ['']
+topics: ['Tech']
 ---
 
 ## Free and Open Source Softwares (FOSS)

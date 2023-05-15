@@ -4,7 +4,7 @@ date: 2023-02-16T12:48:42+08:00
 draft: false
 description: "How to install Chocolatey and why?"
 summary: "How and why everyone and their mom should use Chocolatey on Windows."
-topics: ["tech", "productivity"]
+topics: ["useful foss", "digital productivity"]
 ---
 
 {{< lead >}}

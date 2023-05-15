@@ -4,7 +4,7 @@ date: 2023-03-18T23:13:37+08:00
 draft: false
 description: "Download any video or audio from YouTube or any website with yt-dlp"
 summary: "yt-dlp - A Powerful Foss Tool to Download YouTube (and other) Videos"
-topics: ["tech", "productivity"]
+topics: ["useful foss"]
 ---
 
 ## Installations
@@ -60,6 +60,7 @@ Command | Function
 `yt-dlp --yes-playlist "LINK"` | Download a playlist of videos
 `yt-dlp --extract-audio "LINK"` | Download only the audio
 `yt-dlp --extract-audio --yes-playlist "LINK"` | Download a playlist of audios
+`yt-dlp --extract-audio --yes-playlist -o "%(playlist_index)s-%(title)s.%(ext)s" "LINK"` | Download a playlist of audios with filename in the pattern of "01-filename.mp3"
 
 ### Useful Options
 
