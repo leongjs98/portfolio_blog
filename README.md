@@ -1,7 +1,8 @@
 # Personal Blog & Portfolio
 
-This a personal blog and portfolio built with [Hugo
-framework](https://gohugo.io/) and the [Blowfish
+This is my personal blog and portfolio website. Visit the website on [https://leongjs.xyz](https://leongjs.xyz/)
+
+It's built with [Hugo framework](https://gohugo.io/) with the [Blowfish
 theme](https://blowfish.page/).
 
 ## Setup
